@@ -4,7 +4,7 @@
 Project 3 Juicy Brick Breaker 10/3/24
 
 A brick breaker game with added features
-
+* changed the controls to the left and right arrow keys 
 ## Implementation
 1. Changed the color of the paddle
 2. Added a background image to the gameplay screen
@@ -17,6 +17,7 @@ A brick breaker game with added features
 9. Add different font
 10. Made screen shake
 11. turned the bricks into sprites
+    
 
 ## References
 
